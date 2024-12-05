@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Dell XPS 13",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 1299.99,
+    "stock": 10,
+    "description": "A powerful ultraportable laptop with a stunning display."
+  },
+  {
+    "id": 2,
+    "name": "Apple MacBook Air M1",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 999.0,
+    "stock": 15,
+    "description": "A thin and light laptop with the powerful M1 chip."
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S22 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 1188.88,
+    "stock": 5,
+    "description": "A premium smartphone with a powerful camera system."
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM4 Wireless Headphones",
+    "brand": "Sony",
+    "category": "Audio",
+    "price": 349.99,
+    "stock": 8,
+    "description": "Noise-canceling wireless headphones with excellent sound quality."
+  },
+  {
+    "id": 5,
+    "name": "LG 27GN850-B Ultragear Gaming Monitor",
+    "brand": "LG",
+    "category": "Monitors",
+    "price": 399.0,
+    "stock": 3,
+    "description": "A 144Hz gaming monitor with a fast response time."
+  }
+]
